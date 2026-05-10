@@ -4,7 +4,7 @@ The goal is to build a recommendation system that predicts what a user should re
 
 The main solution is in:
 
-`notebooks/pratilipi_recsys_final_submission.ipynb`
+`notebooks/recsys_final_submission.ipynb`
 
 ## Repository Structure
 
@@ -14,7 +14,7 @@ The main solution is in:
 │   ├── chapters.csv
 │   └── interactions.csv
 ├── notebooks/
-│   └── pratilipi_recsys_final_submission.ipynb
+│   └── recsys_final_submission.ipynb
 ├── requirements.txt
 ├── README.md
 └── .gitignore
