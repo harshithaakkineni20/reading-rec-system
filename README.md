@@ -1,12 +1,10 @@
-# Pratilipi Reading Recommendation System
-
-This repository contains my solution for the Pratilipi Junior Data Scientist take-home assignment.
+# Reading Recommendation System
 
 The goal is to build a recommendation system that predicts what a user should read next based on their reading history.
 
 The main solution is in:
 
-`notebooks/pratilipi_recsys.ipynb`
+`notebooks/pratilipi_recsys_final_submission.ipynb`
 
 ## Repository Structure
 
@@ -16,7 +14,7 @@ The main solution is in:
 │   ├── chapters.csv
 │   └── interactions.csv
 ├── notebooks/
-│   └── pratilipi_recsys.ipynb
+│   └── pratilipi_recsys_final_submission.ipynb
 ├── requirements.txt
 ├── README.md
 └── .gitignore
